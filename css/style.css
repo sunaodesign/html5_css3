@@ -1,0 +1,39 @@
+body {
+    background: #eeeeee;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+header {
+    margin-top: 70px;
+}
+
+h1 {
+    color: red;
+    font-family: Helvetica, sans-serif;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-size: 18px;
+}
+
+#sobre {
+    max-width: 300px;
+}
+
+footer {
+    margin-bottom: 30px;
+}
+
+.img_padrao {
+    margin-bottom: 20px;
+    width: 300px;
+}
+
+.logo {
+    width: 100px;
+}
